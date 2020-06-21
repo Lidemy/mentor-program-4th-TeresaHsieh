@@ -11,3 +11,7 @@
 5. 完成所有修改後，要將 Staging Area 的檔案中，一起更新為一個版本、內容永久的存下來，並寫下關於這個版本的相關訊息：`Git commit -m ""`
 
 6. 在 local 電腦端完成版本的新增，與遠端的專案內容同步：`Git push origin feature`
+
+7. 到自己的遠端 repo 去，並且發起 PR（Pull Request），說明專案資料夾裡的檔案有更新，並選擇這次推到遠端的 branch 要 merge 到哪支 branch
+
+8. 把 PR 的連結複製起來，並且在學習系統上繳交作業
